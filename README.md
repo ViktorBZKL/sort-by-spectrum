@@ -7,7 +7,7 @@
 
 Введите в консоли следующие команды для клонирования репозитория и установки нужных библиотек:
 ```bash
-git clone https://git.miem.hse.ru/vyubezukladov1/vbezukladov-kg23.git
+git clone https://github.com/ViktorBZKL/sort-by-spectrum.git
 ```
 ```bash
 pip install -r requirements.txt
